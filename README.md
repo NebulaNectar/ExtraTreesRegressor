@@ -1,4 +1,3 @@
-# ExtraTreesRegressor
 # ExtraTreesRegressor — Energy Load Prediction
 
 ## About the Project
